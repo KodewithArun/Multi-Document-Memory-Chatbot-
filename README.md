@@ -1,5 +1,5 @@
 
-````markdown
+
 # Multi-Document Memory Chatbot
 
 A powerful multi-document chatbot system that parses various document formats, chunks and indexes the content using vector embeddings, and enables conversational retrieval with memory support across sessions. This project leverages LangChain, LlamaParse, HuggingFace embeddings, Chroma vector store, and the Groq LLM API for a seamless question-answering experience over your documents.
@@ -40,7 +40,7 @@ A powerful multi-document chatbot system that parses various document formats, c
 
 ```bash
 pip install langchain langchain_community llama_parse chromadb langchain_groq pandas python-pptx tabulate python-dotenv
-````
+
 
 * API Keys:
 
