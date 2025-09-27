@@ -31,7 +31,7 @@ A powerful multi-document chatbot system that parses various document formats, c
 
 | UI Screen 3 | UI Screen 4 |
 |-------------|-------------|
-| ![SYSTEMUI3](systemui3.jpg) | ![SYSTEMUI4](systemui4.jpg) |
+| ![SYSTEMUI3](systemui3.jpg) | ![SYSTEMUI4](Systemui4.jpg) |
 
 ### Prerequisites
 
