@@ -27,11 +27,11 @@ A powerful multi-document chatbot system that parses various document formats, c
 
 | UI Screen 1 | UI Screen 2 |
 |-------------|-------------|
-| ![SYSTEMUI1](SYSTEMUI1.jpg) | ![SYSTEMUI2](SYSTEMUI2.jpg) |
+| ![SYSTEMUI1](SYSTEMUI1.jpg) | ![SYSTEMUI2](Systemui2.jpg) |
 
 | UI Screen 3 | UI Screen 4 |
 |-------------|-------------|
-| ![SYSTEMUI3](SYSTEMUI3.jpg) | ![SYSTEMUI4](SYSTEMUI4.jpg) |
+| ![SYSTEMUI3](systemui3.jpg) | ![SYSTEMUI4](systemui4.jpg) |
 
 ### Prerequisites
 
