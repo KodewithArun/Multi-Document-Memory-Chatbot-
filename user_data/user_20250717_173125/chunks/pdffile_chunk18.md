@@ -1,0 +1,47 @@
+Figure 14. Polling versus Interrupt
+
+POLLING
+
+INTERRUPT
+
+TASK 1
+
+TASK 1
+
+POLLING LOOP
+
+TASK 2
+
+TASK 2
+
+POLLING LOOP
+
+TASK 3
+
+Event occurs
+
+INTERRUPT
+
+TASK 3
+
+Save State
+
+Event occurs
+
+PROCESS
+
+EVENT
+
+POLLING LOOP
+
+PROCESS
+
+Restore State
+
+EVENT
+
+TASK 4
+
+TASK 4
+
+VR02101M

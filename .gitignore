@@ -1,0 +1,6 @@
+.env
+memory/
+chromadb/
+Parsed_doc/
+Chunks_doc/
+.multidocbotenv

@@ -1,0 +1,1 @@
+- **Comparison to Traditional Commerce**: Traditional stores rely on physical displays, limited signage, or staff explanations, which may not provide as much detail or interactivity.

@@ -1,0 +1,29 @@
+ langchain 
+ langchain-community 
+ chromadb 
+ sentence-transformers 
+ python-dotenv 
+ langchain_groq
+ groq 
+ langchain-huggingface
+
+ unstructured 
+ pypandoc 
+ pdf2image 
+ pillow
+ python-pptx
+ openpyxl
+ markdown
+ python-docx
+ pdfminer.six
+ pi_heif
+ unstructured-inference
+ lark
+
+llama-parse
+python-pptx
+pandas
+tabulate
+
+# memory
+redis
