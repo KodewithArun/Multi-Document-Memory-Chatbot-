@@ -1,0 +1,5 @@
+For example, the Time class deﬁned in Chapter 16 corresponds to the way people record the time of day, and the functions we deﬁned correspond to the kinds of things people do with times. Similarly, the Point and Rectangle classes correspond to the mathematical concepts of a point and a rectangle.
+
+So far, we have not taken advantage of the features Python provides to support object- oriented programming. These features are not strictly necessary; most of them provide alternative syntax for things we have already done. But in many cases, the alternative is more concise and more accurately conveys the structure of the program.
+
+For example, in the Time program, there is no obvious connection between the class deﬁ- nition and the function deﬁnitions that follow. With some examination, it is apparent that every function takes at least one Time object as an argument.

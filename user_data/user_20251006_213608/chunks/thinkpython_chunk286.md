@@ -1,0 +1,5 @@
+Use a dictionary to write a faster, simpler version of has_duplicates. Solution: http:// thinkpython.com/code/has_duplicates.py. Exercise 11.10. Two words are “rotate pairs” if you can rotate one of them and get the other (see rotate_word in Exercise 8.12).
+
+Write a program that reads a wordlist and ﬁnds all the rotate pairs. Solution: http:// thinkpython.com/code/rotate_pairs.py. Exercise 11.11. Here’s another Puzzler from Car Talk (http://www.cartalk.com/content/ puzzlers):
+
+This was sent in by a fellow named Dan O’Leary. He came upon a common one-syllable, ﬁve-letter word recently that has the following unique property. When you remove the ﬁrst letter, the remaining letters form a homophone of the original word, that is a word that sounds exactly the same. Replace the ﬁrst letter, that is, put it back and remove the second letter and the result is yet another homophone of the original word. And the question is, what’s the word?

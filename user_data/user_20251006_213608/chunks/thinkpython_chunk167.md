@@ -1,0 +1,5 @@
+Proving that claim is a nontrivial exercise ﬁrst accomplished by Alan Turing, one of the ﬁrst computer scientists (some would argue that he was a mathematician, but a lot of early computer scientists started as mathematicians). Accordingly, it is known as the Turing Thesis. For a more complete (and accurate) discussion of the Turing Thesis, I recommend Michael Sipser’s book Introduction to the Theory of Computation.
+
+To give you an idea of what you can do with the tools you have learned so far, we’ll eval- uate a few recursively deﬁned mathematical functions. A recursive deﬁnition is similar to a circular deﬁnition, in the sense that the deﬁnition contains a reference to the thing being deﬁned. A truly circular deﬁnition is not very useful:
+
+vorpal: An adjective used to describe something that is vorpal.

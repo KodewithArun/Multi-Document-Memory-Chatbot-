@@ -1,0 +1,5 @@
+There is evidence that people naturally respond to computers as if they were people. When they work well, we think of them as teammates, and when they are obstinate or rude, we respond to them the same way we respond to rude, obstinate people (Reeves and Nass, The Media Equation: How People Treat Computers, Television, and New Media Like Real People and Places).
+
+Preparing for these reactions might help you deal with them. One approach is to think of the computer as an employee with certain strengths, like speed and precision, and partic- ular weaknesses, like lack of empathy and inability to grasp the big picture.
+
+Your job is to be a good manager: ﬁnd ways to take advantage of the strengths and mitigate the weaknesses. And ﬁnd ways to use your emotions to engage with the problem, without letting your reactions interfere with your ability to work effectively.

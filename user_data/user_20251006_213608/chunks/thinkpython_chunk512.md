@@ -1,0 +1,5 @@
+Hashable objects that are considered equal return the same hash value, but the converse is not necessarily true: two different objects can return the same hash value.
+
+find_map uses the modulus operator to wrap the hash values into the range from 0 to len(self.maps), so the result is a legal index into the list. Of course, this means that many different hash values will wrap onto the same index. But if the hash function spreads things out pretty evenly (which is what hash functions are designed to do), then we expect n/100 items per LinearMap.
+
+Since the run time of LinearMap.get is proportional to the number of items, we expect BetterMap to be about 100 times faster than LinearMap. The order of growth is still linear, but the leading coefﬁcient is smaller. That’s nice, but still not as good as a hashtable.

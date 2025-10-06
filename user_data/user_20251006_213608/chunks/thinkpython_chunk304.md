@@ -1,0 +1,1 @@
+To help debug these kinds of errors, I have written a module called structshape that provides a function, also called structshape, that takes any kind of data structure as an argument and returns a string that summarizes its shape. You can download it from http://thinkpython.com/code/structshape.py
